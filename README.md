@@ -1,3 +1,5 @@
+![Podcaster Knight](./Cavaleiro.jpg)
+
 # meu-primeiro-podcast
 Projeto do bootcamp DIO: podcast gerado por IA
 ## 🎯 Objetivo do Projeto
