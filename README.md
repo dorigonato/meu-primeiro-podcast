@@ -7,10 +7,10 @@ Aprender a criar um podcast utilizando ferramentas de IA e compartilhar o conte�
 
 ## 🛠️ Tecnologias Utilizadas
 - ChatGPT - https://chatgpt.com/
-- Movavi Editor – Geração do arquivo de aúdio.
+- Movavi Editor – Para tratar aúdio e adicionar sons de fundo.
 - GitHub: Para versionar e compartilhar o projeto.
-- Piclumen - https://www.piclumen.com/
-- ElevenLabs - https://elevenlabs.io/app/voice-lab
+- Piclumen - https://www.piclumen.com/ - Gerar capa
+- ElevenLabs - https://elevenlabs.io/app/voice-lab - Geração do arquivo de aúdio.
 - 
 - ## 📂 Arquivos Incluídos
 - `podcast_editado.mp3`: Arquivo de áudio final do podcast.
