@@ -1,6 +1,6 @@
 ![Podcaster Knight](./Cavaleiro.jpg)
 
-# meu-primeiro-podcast
+# Meu Primeiro Podcast
 Projeto do bootcamp DIO: podcast gerado por IA
 ## 🎯 Objetivo do Projeto
 Aprender a criar um podcast utilizando ferramentas de IA e compartilhar o conteúdo em um repositório no GitHub.
